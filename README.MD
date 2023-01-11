@@ -31,6 +31,8 @@ Projeto de front end (apenas template) de um player de música.
 
 Inspirado na video aula do canal - [Rocketseat](https://www.youtube.com/watch?v=M_eaBcany6Y)
 
+Figma do projeto - [Aqui](https://www.figma.com/community/file/1195050524500542670)
+
 ## 🚀 Como Rodar
 
 - Clone o projeto.
